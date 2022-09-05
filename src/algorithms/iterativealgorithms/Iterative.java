@@ -3,7 +3,7 @@ package algorithms.iterativealgorithms;
 /**
  * 迭代算法
  */
-public class IterativeAlgorithms {
+public class Iterative {
 
     public static void main(String[] args) {
         int result = factorial(4);
